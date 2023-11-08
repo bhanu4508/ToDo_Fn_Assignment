@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .hand-pointer {
+    cursor: pointer;
+  }
+  
+  .header-center {
+    display: flex;
+    align-items: center;
+  }
+
+  .add-button {
+    position: relative;
+    top: 10px; /* Adjust the value as needed to control the vertical alignment */
+  }
+  
+  
+  .highlight-icon {
+    margin-right: 0.5rem;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logout-icon {
+    margin-left: 0.5rem;
+  }
+  
